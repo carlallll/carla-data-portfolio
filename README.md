@@ -3,7 +3,7 @@ Portfolio Data &amp; Business Analytics
 # Portfolio Data & Business Analytics – Carla
 
 Bienvenue sur mon portfolio Data.  
-Je suis étudiante en Master 2 Data & Business Analytics à BSB (Lyon), passionnée par l’analyse, la visualisation et la transformation des données en leviers stratégiques.
+Je suis étudiante en Master 1 Data & Business Analytics à BSB (Lyon), passionnée par l’analyse, la visualisation et la transformation des données en leviers stratégiques.
 
 ## 🧠 Compétences clés
 - Analyse statistique (Excel, Python)
@@ -27,4 +27,4 @@ Application des méthodes statistiques fondamentales sur un dataset réel.
 → [Voir le projet](./projet_statistiques_excel)
 
 ## 🎯 Objectif professionnel
-Intégrer une alternance en Data Analytics où je pourrai combiner analyse, storytelling et impact business/RSE.
+Intégrer un stage en Data Analytics où je pourrai combiner analyse, storytelling et impact business/RSE.
